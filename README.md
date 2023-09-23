@@ -5,7 +5,7 @@ Data Science, MS <br />
 Computer Information Systems, BS
 
 ### Projects
-1. Survivival rate of ICU <br />
+1. Survivival rate of ICU
     * Classification
       * Decision Tree
       * Random Forest
@@ -22,10 +22,12 @@ Computer Information Systems, BS
     * Lasso Regression
     * Ridge Regression
 
-5. Clustering and Classification
-    * K-Means
-    * Logistic Regression
+5. Alcohol vs Malic Acid
     * Principal Component Variance
+    * Clustering
+      * K-Means
+    * Classification
+      * Logistic Regression
 
 6. Total Deaths 2020 <br />
     * Exploratory Data Analysis
